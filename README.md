@@ -1,1 +1,2 @@
-#python-from-zero
+python기초 공부
+프로그래머스
